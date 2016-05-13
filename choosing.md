@@ -9,7 +9,7 @@ assist working with Python packages in a cross-platform fashion. Its real
 strength comes in handling Python packages which require compiled code--such
 packages are especially prevalent in the scientific Python ecosystem.
 
-Conda also has a concept of an environment, which is an independent,
+Conda also has the concept of an environment, which is an independent,
 self-contained install of Python and packages. These environments make it easy
 to install different versions of Python side-by-side; this is especially useful
 when trying to test libraries on a variety of different Python versions. Other
